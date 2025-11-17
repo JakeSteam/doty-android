@@ -1,4 +1,4 @@
-# Droider of the Year
+# [Droider](https://androiddiscord.com) of the Year
 
 ## 2025
 
@@ -8,9 +8,13 @@
 
 - **Droider of the Year**: Kazu
 - **2nd Place**: BD
-- **3rd Place**: Namcot
+- **3rd Place**: Yeetdom
 
 ## 2023
+
+- **Droider of the Year**: Cremé
+- **Most Helpful Droider**: 2arah
+- **Droider Moment of the Year**: Nook's Google incident
 
 ## 2022
 
