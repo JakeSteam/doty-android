@@ -21,14 +21,14 @@
 - **Droider of the Year**: Mxing
 - **Most Helpful Droider**: 2arah
 - **Most BDE Droider**: Zoe
-- **Droider Moment of the Year**: Mxing
+- **Droider Moment of the Year**: Mxing's Mxingisms
 
 ## 2021
 
 - **Droider of the Year**: Jake
 - **Most Helpful Droider**: Wiltron
 - **Most Likely Droider to Get Banned**: Repurity
-- **Funniest Droider**: ???
+- **Funniest Droider**: MOAG
 
 ## 2020
 
